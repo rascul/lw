@@ -1,0 +1,8 @@
+name: "Lion Warden"
+description: "Lion Warden Website"
+
+url: "http://rascul.github.io"
+baseurl: "/lw"
+
+permalink: pretty
+

@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+
+<head>
+
+<title>Lion Warden{% if site.name != "Lion Warden" %} : {{ site.name }}{% endif %}</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="utf-8">
+<meta name="description" content="{{ site.description }}">
+
+<link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+<div class="container">
+	<div class="container navbar-fixed-top" style="background: white;">
+		<ul class="nav nav-tabs">
+			<li{% if site.name == "Lion Warden" %} class="active"{% endif %}><a href="{{ site.baseurl }}"><strong>Lion Warden</strong></a></li>
+			<li><a href="{{ site.baseurl }}/enlistment">Enlistment</a></li>
+			<li><a href="{{ site.baseurl }}/treaties">Treaties</a></li>
+			<li><a href="{{ site.baseurl }}/laws">Laws</a></li>
+			<li><a href="{{ site.baseurl }}/quests">Quests</a></li>
+		</ul>
+	</div>
+		
+	<div class="container" style="padding: 40px 20px;">
+		
+	
