@@ -1,5 +1,6 @@
 ---
 title: Lady Quests
+category: Quests
 layout: default
 ---
 

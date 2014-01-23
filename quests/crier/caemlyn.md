@@ -1,5 +1,6 @@
 ---
 title: Caemlyn Crier Quests
+category: Quests
 layout: default
 ---
 

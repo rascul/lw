@@ -1,5 +1,6 @@
 ---
 title: Laws
+category: Laws
 layout: default
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Treaties
+category: Treaties
 layout: default
 ---
 

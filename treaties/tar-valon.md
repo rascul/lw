@@ -1,5 +1,6 @@
 ---
 title: Tar Valon Treaty
+category: Treaties
 layout: default
 ---
 

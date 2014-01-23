@@ -1,5 +1,6 @@
 ---
 title: Queen Quests
+category: Quests
 layout: default
 ---
 

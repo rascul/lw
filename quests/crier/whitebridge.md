@@ -1,5 +1,6 @@
 ---
 title: Whitebridge Crier Quests
+category: Quests
 layout: default
 ---
 

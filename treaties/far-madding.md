@@ -1,5 +1,6 @@
 ---
 title: Far Madding Treaty
+category: Treaties
 layout: default
 ---
 

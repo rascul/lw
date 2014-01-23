@@ -1,5 +1,6 @@
 ---
 title: Gawyn Quests
+category: Quests
 layout: default
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Baerlon Crier Quests
+category: Quests
 layout: default
 ---
 

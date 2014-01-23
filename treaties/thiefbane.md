@@ -1,5 +1,6 @@
 ---
 title: Thiefbane Treaty
+category: Treaties
 layout: default
 ---
 

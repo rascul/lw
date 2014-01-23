@@ -1,5 +1,6 @@
 ---
 title: Quests
+category: Quests
 layout: default
 ---
 

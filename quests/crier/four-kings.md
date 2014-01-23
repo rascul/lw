@@ -1,5 +1,6 @@
 ---
 title: Four Kings Crier Quests
+category: Quests
 layout: default
 ---
 

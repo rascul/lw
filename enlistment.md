@@ -1,5 +1,6 @@
 ---
 title: Enlistment
+category: Enlistment
 layout: default
 ---
 

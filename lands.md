@@ -1,5 +1,6 @@
 ---
 title: Lands
+category: Lands
 layout: default
 ---
 
