@@ -29,7 +29,7 @@ ul.posts li {
 		<ul class="nav nav-tabs">
 			<li{% if page.title == "Lion Warden" %} class="active"{% endif %}><a href="{{ site.baseurl }}/"><strong>Lion Warden</strong></a></li>
 			{% for section in sections %}
-				<li{% if page.category == section %} class="active"{% endif %}><a href="{{ site.baseurl}}/{{ section | downcase }}">{{ section | capitalize }}</a></li>
+				<li{% if page.category == section %} class="active pull-right"{% else %} class="pull-right"{% endif %}><a href="{{ site.baseurl}}/{{ section | downcase }}">{{ section | capitalize }}</a></li>
 			{% endfor %}
 		</ul>
 	</div>
