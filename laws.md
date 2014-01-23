@@ -1,5 +1,5 @@
 ---
-title: Laws
+title: Laws of Andor
 category: Laws
 layout: default
 ---
