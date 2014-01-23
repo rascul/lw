@@ -14,6 +14,7 @@ The current Enlistment Officer is __Mhaliah__.
  * No channelers will be accepted
 
 ### Process
+
 The future applicant will make the initial contact with a Lion Warden of rank Lieutenant or higher 
 to show interest. Any Lion Warden not of appropriate rank will direct the person to someone who is. 
 A brief interview will be conducted and the recruitment process will be outlined.
@@ -26,12 +27,14 @@ A brief interview will be conducted and the recruitment process will be outlined
  * Voting
 
 ### Initial Stage
+
 The applicant has sent an application and after sufficient time is given for input about the application,
 a rank 4+ Lion Warden will tell them to put {Lion Warden Applicant} in their title. They may then begin 
 the 5 tasks listed below which you will have to tell them about. These tasks can be turned in to any Lion 
 Warden unless specified rank 4+ and you are to post that they have completed them on the applicant’s thread.
 
 ### Tasks
+
 All tasks are to be verified by a rank 4+ Lion Warden. If no Lion Warden is available, a log will suffice 
 and must be mailed to the current Recruitment Officer.
 
@@ -43,6 +46,7 @@ and must be mailed to the current Recruitment Officer.
  * Acquire a trophy of the shifty ogier slain in the old Iron Fist base
 
 ### Secondary Stage
+
 After the completion of all 5 tasks, the applicant must then grain 3 recommendations from rank 4+ Lion
 Warden. Once the recommendations are completed, the voting process begins. To clan the applicant needs 
 a minimum of 3 yes votes. If the applicant receives 2 or more no votes, then they will be refused the 
@@ -60,6 +64,7 @@ they don't know if they don't know it.
 and make an effort to get to know them.
 
 ### Mentors/Apprentices
+
 Lion Wardens of rank 5+ are able to take up an apprentice after an initial application is lodged. This 
 would not make the process easier for the applicant as the process would be the same for a non-apprenticed 
 applicant. However, the mentor would take on the responsibility of ensuring they have what it takes to 
@@ -68,17 +73,20 @@ the applicant/apprentice was ready. Of course the applicant would have to agree 
 if you asked.
 
 ### Enlistment Ceremony
+
 Once all requirements and the vote is complete and the applicant has passed all tests, it is now time to 
 enter the applicant into the ranks. Any Senior Lieutenant or higher will be able to do this. Any and all 
 available Lion Warden should be present for the ceremony, as well as any friends or family of the applicant.
 
 ### Enlistment Oath
+
 I swear to uphold the laws of Andor for both high born, and low. I swear to administer justice regardless 
 of rank or station in the name of Andor. I swear to protect those who need protection, and defend those who 
 cannot defend themselves. I swear loyalty to Queen Morgase - bearer of the rose crown, the people and nation 
 of Andor, and the Lion Warden - defenders of the realm. Forward the White Lion!
 
 ### New Recruits
+
 Upon clanning, a new recruit must be shown around the palace. Important things are how to issue cloaks and 
 quests, who to turn in scalps and quest items to, how to get in the clan room and use the chest, valet, and 
 armor. If time permits, provide a tour of the palace, ensuring the new Lion Warden sees all of the clan areas.

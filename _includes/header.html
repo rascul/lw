@@ -1,5 +1,5 @@
 {% comment %} sections must be in reverse alphabetical order {% endcomment %}
-{% assign sections = "Treaties|Ranks|Quests|Laws|Lands|Enlistment" | split: "|" %}
+{% assign sections = "Enlistment|Lands|Laws|Quests|Ranks|Treaties" | split: "|" %}
 
 <!doctype html>
 <html>
@@ -12,29 +12,33 @@
 <meta charset="utf-8">
 <meta name="description" content="{{ site.description }}">
 
-<link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
-<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet">
-
-<style>
-ul.posts li {
-	display: inline;
-}
-</style>
+<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.3.0/pure-min.css">
+<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/ui.css">
 
 </head>
 
 <body>
 
-<div class="container">
-	<div class="container navbar-fixed-top" style="background: white;">
-		<ul class="nav nav-tabs">
-			<li{% if page.title == "Lion Warden" %} class="active"{% endif %}><a href="{{ site.baseurl }}/"><strong>Lion Warden</strong></a></li>
-			{% for section in sections %}
-				<li{% if page.category == section %} class="active pull-right"{% else %} class="pull-right"{% endif %}><a href="{{ site.baseurl}}/{{ section | downcase }}">{{ section | capitalize }}</a></li>
-			{% endfor %}
-		</ul>
-	</div>
-		
-	<div class="container" style="padding: 40px 20px;">
-		<h1>{{ page.title }}</h1>
+
 	
+<div id="layout">
+	<a href="#menu" id="menuLink" class="menu-link"><span></span></a>
+	<div id="menu">
+		<div class="pure-menu pure-menu-open">
+			<a class="pure-menu-heading" href="{{ site.baseurl }}/">Lion Warden</a>
+			
+			<ul>
+				{% for section in sections %}
+					<li{% if page.category == section %} class="pure-menu-selected"{% endif %}><a href="{{ site.baseurl }}/{{ section | downcase }}">{{ section }}</a></li>
+				{% endfor %}
+			</ul>
+		</div>
+	</div>
+	
+	<div id="main">
+		<div class="header">
+			<h1>{{ page.title }}</h1>
+		</div>
+		
+		<div class="content">

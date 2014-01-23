@@ -9,11 +9,12 @@ layout: default
 Certain requirements are to be met in order to advance in rank. Testing can be
 performed by any Senior Lieutenant or higher before the promotion.
 
-Note: _Must be level 30 to advance in rank._
+_Note: Must be level 30 to advance in rank._
 
 ## Requirements
 
 ### Rank 1 <small>0qps</small>
+
 *  See [Enlistment]({{ site.baseurl }}/enlistment)
 
 ### Rank 2 <small>10qps</small>

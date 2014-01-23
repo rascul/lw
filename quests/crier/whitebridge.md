@@ -4,10 +4,10 @@ category: Quests
 layout: default
 ---
 
-> <smaller>I'm hungry. Fetch me a potato, please.</smaller>
+1. I'm hungry. Fetch me a potato, please.
 
-> <smaller>My headache is awful. I'd like some willow-bark to make me feel better.</smaller>
+2. My headache is awful. I'd like some willow-bark to make me feel better.
 
-> <smaller>There are some bloodstained papers nearby that I need.</smaller>
+3. There are some bloodstained papers nearby that I need.
 
-> <smaller>Lastly - big black rats. I hate them! HATE THEM! Get me a scalp.</smaller>
+4. Lastly - big black rats. I hate them! HATE THEM! Get me a scalp.

@@ -3,16 +3,17 @@ title: Lion Warden
 layout: default
 ---
 
-<div class="row">
-	<div class="col-md-6"><blockquote><em>
-		Forward the Lion, forward the Lion,<br>
-		the White Lion takes the field.<br>
-		Roar defiance at the Shadow.<br>
-		Forward the Lion, forward, Andor triumphant.
+<div class="pure-g">
+	<div class="pure-u-2-3">
+		<blockquote><em>
+			Forward the Lion, forward the Lion,<br>
+			the White Lion takes the field.<br>
+			Roar defiance at the Shadow.<br>
+			Forward the Lion, forward, Andor triumphant.
 		</em></blockquote>
 	</div>
-	<div class="col-md-6 text-right">
-		<img src="{{ site.baseurl }}/assets/andor.svg" alt="andor" style="width: auto; height: 5em;">
+	<div class="pure-u-1-4" style="text-align: right;">
+		<img src="{{ site.baseurl }}/assets/andor.svg" alt="andor" style="width: auto; height: 8em;">
 	</div>
 </div>
 
@@ -35,7 +36,7 @@ lifestyle.</p>
 </dl>
 
 {% if paginator.total_pages > 1 %}
-<ul class="posts">
+<ul class="pure-paginator">
 	{% if paginator.previous_page %}
 		{% if paginator.previous_page == 1 %}
 			<li><a href="/"><i class="fa fa-arrow-left"></i></a></li>

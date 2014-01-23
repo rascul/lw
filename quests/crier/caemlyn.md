@@ -4,10 +4,10 @@ category: Quests
 layout: default
 ---
 
-> <smaller>Rats are a damm plague round the city, bring me a scalp!</smaller>
+1. Rats are a damm plague round the city, bring me a scalp!
 
-> <smaller>I need an oilstone for the weaponsmith. Look south of the city and bring me one.</smaller>
+2. I need an oilstone for the weaponsmith. Look south of the city and bring me one.
 
-> <smaller>Too many thieves around. At least our forces have frightened one - bring me his scalp!</smaller>
+3. Too many thieves around. At least our forces have frightened one - bring me his scalp!
 
-> <smaller>Basel, he's lost his spectacles, near those Aringill woods, apparently. Give them to me.</smaller>
+4. Basel, he's lost his spectacles, near those Aringill woods, apparently. Give them to me.
