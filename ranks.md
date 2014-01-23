@@ -4,7 +4,8 @@ category: Ranks
 layout: default
 ---
 
-[Rank Tracker]({{ site.baseurl }}/ranks/tracker)
+[Rank Tracker](https://docs.google.com/spreadsheet/ccc?key=0AqbRkNNvr2HRdF8wZFExUVpDNS1MdGI0SFlSaDA3UGc#gid=0)  
+<small>(Contact Nalav if you're a Senior Lieutenant or higher and would like editing priviledges)</small>
 
 Certain requirements are to be met in order to advance in rank. Testing can be
 performed by any Senior Lieutenant or higher before the promotion.
