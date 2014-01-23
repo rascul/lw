@@ -4,7 +4,7 @@ category: Quests
 layout: default
 ---
 
-## Quest
+### Quest
 
 > <smaller>An Andoran lord has been found dead in his home.
 > Nothing is certain yet, but it looks like murder.
@@ -14,7 +14,7 @@ layout: default
 > Just let the guard know you wish to enter the scene of the crime.
 > Bring the purpetrator to me when you have proof.</smaller>
 
-## Testing
+### Testing
 
 > <smaller>There are 46 names on the list of people permanently wanted by Andor.
 > These people, for reasons that escape all logic and reason, still breathe.
