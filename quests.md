@@ -6,6 +6,7 @@ layout: default
 
 ### Lion Warden Quests
 
+ * [Council]({{ site.baseurl }}/quests/council)
  * [Gawyn]({{ site.baseurl }}/quests/gawyn)
  * [Lady]({{ site.baseurl }}/quests/lady)
  * [Queen]({{ site.baseurl }}/quests/queen)
