@@ -5,7 +5,7 @@ layout: default
 ---
 
 
-<img src="{{ site.baseurl }}/assets/queens-guard.jpg" alt="queen's guard" style="float: right;">
+<img src="{{ site.baseurl }}/assets/queens-guard.jpg" alt="queen's guard" style="float: right; padding-left: 1em;">
 
 The current Enlistment Officer is __Mhaliah__.
 
