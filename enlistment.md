@@ -8,10 +8,10 @@ The current Enlistment Officer is __Mhaliah__.
 
 ### Requirements
 
- * At least level 25, and must be working towards level 30
- * Must be in good standing with Andor
- * If another country has a warrant for the applicant, it will be examined on a case by case basis
- * No channelers will be accepted
+*  At least level 25, and must be working towards level 30
+*  Must be in good standing with Andor
+*  If another country has a warrant for the applicant, it will be examined on a case by case basis
+*  No channelers will be accepted
 
 ### Process
 
@@ -21,10 +21,10 @@ A brief interview will be conducted and the recruitment process will be outlined
 
 ### Basics
 
- * Submit an application letter
- * Complete 6 quests
- * Gain 3 recommendations from Lion Wardens of rank Lieutenant or higher
- * Voting
+*  Submit an application letter
+*  Complete 6 quests
+*  Gain 3 recommendations from Lion Wardens of rank Lieutenant or higher
+*  Voting
 
 ### Initial Stage
 
@@ -38,12 +38,12 @@ Warden unless specified rank 4+ and you are to post that they have completed the
 All tasks are to be verified by a rank 4+ Lion Warden. If no Lion Warden is available, a log will suffice 
 and must be mailed to the current Recruitment Officer.
 
- * Find patrols and guards in the countryside and provide information on whether they move and where they would move to.
- * Find two lords in the countryside
- * Slay the smuggler by the name of Roland
- * Acquire a trophy of a golem slain in the Black Hills
- * Slay the bandit by the name of Ragnor
- * Acquire a trophy of the shifty ogier slain in the old Iron Fist base
+*  Find patrols and guards in the countryside and provide information on whether they move and where they would move to.
+*  Find two lords in the countryside
+*  Slay the smuggler by the name of Roland
+*  Acquire a trophy of a golem slain in the Black Hills
+*  Slay the bandit by the name of Ragnor
+*  Acquire a trophy of the shifty ogier slain in the old Iron Fist base
 
 ### Secondary Stage
 
@@ -55,13 +55,13 @@ more time is required.
 
 ### Notes
 
- * The quests offer a means of justifying a knowledge of the land and some basic skills.
- * When giving a rec to someone, consider how they come across as a person and whether they're keen or 
-not. Don't just base your recs off player competency.
- * We already use zone knowledge tests for ranks as a safety net to ensure our members are learning what 
-they don't know if they don't know it.
- * Don't give a rec to someone if you don't like them or you don't think you will get along with them 
-and make an effort to get to know them.
+*  The quests offer a means of justifying a knowledge of the land and some basic skills.
+*  When giving a rec to someone, consider how they come across as a person and whether they're keen or 
+   not. Don't just base your recs off player competency.
+*  We already use zone knowledge tests for ranks as a safety net to ensure our members are learning what 
+   they don't know if they don't know it.
+*  Don't give a rec to someone if you don't like them or you don't think you will get along with them 
+   and make an effort to get to know them.
 
 ### Mentors/Apprentices
 
@@ -80,10 +80,10 @@ available Lion Warden should be present for the ceremony, as well as any friends
 
 ### Enlistment Oath
 
-I swear to uphold the laws of Andor for both high born, and low. I swear to administer justice regardless 
+_I swear to uphold the laws of Andor for both high born, and low. I swear to administer justice regardless 
 of rank or station in the name of Andor. I swear to protect those who need protection, and defend those who 
 cannot defend themselves. I swear loyalty to Queen Morgase - bearer of the rose crown, the people and nation 
-of Andor, and the Lion Warden - defenders of the realm. Forward the White Lion!
+of Andor, and the Lion Warden - defenders of the realm. Forward the White Lion!_
 
 ### New Recruits
 
