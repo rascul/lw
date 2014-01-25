@@ -6,6 +6,7 @@ layout: default
 
 You may complete these quests once, unless specified otherwise.
 
+The mysterious lady can be found in the Meeting Hall. Ask her to `issue quest`.
 
 1. We need to improve the speed of our communications.
    Bring me a quill pen, a sheet of paper, a pigeon egg, a sack of grain and a

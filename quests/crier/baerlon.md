@@ -4,6 +4,8 @@ category: Quests
 layout: default
 ---
 
+The crier is found in the City Square.
+
 1. Huge drooling rats are a damm plague round here, bring me a scalp!
 
 2. I need a belladonna berry for the herbalist. Look south of the city and bring me one.

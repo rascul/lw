@@ -4,6 +4,8 @@ category: Quests
 layout: default
 ---
 
+Caemlyn Central Square is where the crier can be found.
+
 1. Rats are a damm plague round the city, bring me a scalp!
 
 2. I need an oilstone for the weaponsmith. Look south of the city and bring me one.

@@ -4,6 +4,9 @@ category: Quests
 layout: default
 ---
 
+Queen Morgase, when not in the Throne Room, may be found east of the Throne Room.
+Ask her to `issue quest`.
+
 1. It is paramount that we maintain a show of strength
    in the face of those who would test our resolve and fortitude.
    For every criminal permanently warranted who receives Andoran

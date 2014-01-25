@@ -4,6 +4,8 @@ category: Quests
 layout: default
 ---
 
+The crier in Whitebridge is found in the Magnificent Square.
+
 1. I'm hungry. Fetch me a potato, please.
 
 2. My headache is awful. I'd like some willow-bark to make me feel better.

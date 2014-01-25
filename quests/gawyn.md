@@ -4,7 +4,11 @@ category: Quests
 layout: default
 ---
 
+Prince Gawyn may be found in the Throne Room.
+
 ### Quest
+
+Ask Prince Gawyn to `issue quest`.
 
 1. An Andoran lord has been found dead in his home.
    Nothing is certain yet, but it looks like murder.
@@ -15,6 +19,8 @@ layout: default
    Bring the purpetrator to me when you have proof.
 
 ### Testing
+
+Ask Prince Gawyn about `testing`.
 
 1. There are 46 names on the list of people permanently wanted by Andor.
    These people, for reasons that escape all logic and reason, still breathe.
