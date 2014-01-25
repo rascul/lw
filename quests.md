@@ -6,18 +6,18 @@ layout: default
 
 ### Lion Warden Quests
 
-*  [Council]({{ site.baseurl }}/quests/council)
-*  [Gawyn]({{ site.baseurl }}/quests/gawyn)
-*  [Lady]({{ site.baseurl }}/quests/lady)
-*  [Queen]({{ site.baseurl }}/quests/queen)
+*  [Council](council)
+*  [Gawyn](gawyn)
+*  [Lady](lady)
+*  [Queen](queen)
 
 ### Crier Quests
 
-*  [Baerlon]({{ site.baseurl }}/quests/crier/baerlon)
-*  [Caemlyn]({{ site.baseurl }}/quests/crier/caemlyn)
-*  [Four Kings]({{ site.baseurl }}/quests/crier/four-kings)
-*  [Whitebridge]({{ site.baseurl }}/quests/crier/whitebridge)
+*  [Baerlon](crier/baerlon)
+*  [Caemlyn](crier/caemlyn)
+*  [Four Kings](crier/four-kings)
+*  [Whitebridge](crier/whitebridge)
 
 ### Grizzled Adventurer Quests
 
- * Caemlyn
+ * [Caemlyn](adventurer)
