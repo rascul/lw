@@ -1,4 +1,4 @@
-{% assign sections = "Enlistment|Lands|Laws|Quests|Ranks|Treaties" | split: "|" %}
+{% assign sections = "Andor|Enlistment|Laws|Quests|Ranks|Treaties" | split: "|" %}
 
 <!doctype html>
 <html>
@@ -26,6 +26,9 @@
 	<div id="menu">
 		<div class="pure-menu pure-menu-open">
 			<a class="pure-menu-heading" href="{{ site.baseurl }}/">Lion Warden</a>
+			
+			<!--<div style="text-align: center;"><img src="{{ site.baseurl }}/assets/andor-symbol.png" alt="andor"></div>-->
+			<img src="{{ site.baseurl }}/assets/andor.svg" alt="andor" style="width: 100%; height: auto;">
 			
 			<ul>
 				{% for section in sections %}
